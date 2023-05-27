@@ -1,4 +1,4 @@
-# semect_input
+# MODAL_FORM
 
 > Made with create-react-library
 
@@ -15,7 +15,7 @@ npm install --save semect_input
 ```jsx
 import React, { Component } from 'react'
 
-import MyComponent from 'semect_input'
+import Modal from 'MODAL_FORM'
 import 'semect_input/dist/index.css'
 
 class Example extends Component {
