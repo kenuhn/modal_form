@@ -7,7 +7,7 @@
 ## Install
 
 ```bash
-npm install --save modal_form
+npm install --save semect_input
 ```
 
 ## Usage
@@ -25,7 +25,7 @@ class Example extends Component {
 }
 ```
 
-<!-- Fonctionnalités :
+ Fonctionnalités :
 
     Le composant utilise la fonction "useNavigate" de react-router-dom pour obtenir une fonction de navigation.
     Lorsque la prop "isOpen" est vraie, le composant affiche la fenêtre modale.
@@ -34,7 +34,7 @@ class Example extends Component {
     À l'intérieur de la fenêtre modale, il y a un élément "div" avec la classe "modal-content" qui contient le contenu de la fenêtre.
     Le contenu de la fenêtre modale comprend un titre avec la classe "modal-header" et le texte "HRNET".
     Il y a également un paragraphe avec le texte "Nouvelle utilisateur crée !!".
-    Enfin, il y a un bouton avec la classe "modal-button" qui, lorsqu'il est cliqué, déclenche la fonction de navigation pour rediriger vers la page "./Employe". -->
+    Enfin, il y a un bouton avec la classe "modal-button" qui, lorsqu'il est cliqué, déclenche la fonction de navigation pour rediriger vers la page "./Employe"
 
 ## License
 
