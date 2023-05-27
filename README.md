@@ -16,7 +16,7 @@ npm install --save modal_form
 import React, { Component } from 'react'
 
 import Modal from 'MODAL_FORM'
-import 'semect_input/dist/index.css'
+import 'modal_form/dist/index.css'
 
 class Example extends Component {
   render() {
