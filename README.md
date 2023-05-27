@@ -7,7 +7,7 @@
 ## Install
 
 ```bash
-npm install --save semect_input
+npm install --save modal_form
 ```
 
 ## Usage
